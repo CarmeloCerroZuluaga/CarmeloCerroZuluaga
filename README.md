@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola, mi nombre es Carmelo Andres Cerro Zuluaga👋
+## Estudiante de ingenieria de sistemas | 5to semestre
+Me apasiona la ingeniería de software y el diseño de interfaces. Mi enfoque combina la creación de experiencias visuales atractivas con una lógica de programación sólida y eficiente.
 
-<!--
-**CarmeloCerroZuluaga/CarmeloCerroZuluaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Stack Tecnológico
+- 💻 **Desarrollo:** Creación de aplicaciones e interfaces funcionales (Java / Maven).
+- 🏗️ **Estructura de Datos:** Manejo de BST (Árboles Binarios de Búsqueda), listas ligadas y grafos.
+- 📊 **Análisis de Algoritmos:** Optimización de código y análisis de complejidad (Big O).
+- 🗄️ **Bases de Datos:** Diseño y consultas en MySQL y lenguaje SQL.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Áreas de Interés
+- 💻 Implementación de Interfaces: Programación de componentes visuales funcionales y dinámicos.
+- 🔍 Optimización de algoritmos de búsqueda y ordenamiento.
+- ⚙️ Arquitectura de software y lógica estructurada.
